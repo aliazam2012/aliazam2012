@@ -37,7 +37,7 @@ Building showcase projects that demonstrate production AI engineering:
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/aliazam1](https://www.linkedin.com/in/aliazam1/)
+- 💼 LinkedIn: [linkedin.com/in/aliazam2012](https://www.linkedin.com/in/aliazam2012/)
 - 📧 Email: ali.azam2012@gmail.com
 - 📍 Location: San Jose, CA 🌉
 
