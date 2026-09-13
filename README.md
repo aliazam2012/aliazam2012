@@ -1,46 +1,30 @@
-# 👋 Hi, I'm Ali Azam
+# Hi, I'm Ali 👋
 
-## 🤖 Senior Software Engineer | AI Platform Automation
+### Applied AI & Forward Deployed Engineering Leader
 
-I build production AI systems at scale. Currently architecting LLM-driven automation serving 200,000+ users at Align Technologies using AWS Bedrock, RAG pipelines, and Model Context Protocol.
+I lead **Forward Deployed Engineering at BackOps AI**, where I work at the intersection of **customers, engineering, product, and applied AI**.
 
-### 🔧 What I Work With
+I’m a hands-on engineering leader focused on taking complex AI systems from **technical discovery → architecture → production → adoption**, while building the teams, tooling, and operating systems that let those deployments scale.
 
-**AI/ML:**
-- AWS Bedrock, OpenAI API, LangChain
-- RAG pipelines, embeddings, vector search
-- Prompt optimization, context engineering
-- LLM observability (NewRelic, Dynatrace)
+### What I work on
 
-**Languages & Frameworks:**
-- Python (Expert) | Bash | SQL
-- FastAPI, Flask, RESTful APIs
+* 🤖 **Agentic AI systems** — orchestration, tool use, structured outputs, human-in-the-loop workflows, and production reliability
+* 🧪 **LLM evaluation** — golden datasets, deterministic verification, regression testing, and release gates
+* 🛠️ **Developer & agent tooling** — MCP, APIs, internal tools, workflow automation, and reusable engineering patterns
+* 🏢 **Enterprise AI delivery** — translating complex customer workflows into reliable production systems
+* 👥 **Engineering leadership** — hiring, coaching, technical direction, portfolio prioritization, and growing Forward Deployed Engineers
+* 🔁 **Field → Product** — turning repeated customer problems into reusable platform capabilities instead of one-off implementations
 
-**Cloud & Infrastructure:**
-- AWS (Lambda, EC2, S3, CloudWatch)
-- Kubernetes, Docker, Jenkins
-- GitHub Actions, CI/CD
+### Current focus
 
-### 🚀 Current Focus
+I’m especially interested in how **Claude, agentic architectures, context engineering, evaluations, and developer tooling** change the way enterprise software is designed and delivered.
 
-Building showcase projects that demonstrate production AI engineering:
-- 📚 RAG-based documentation systems
-- 📊 LLM observability and monitoring tools
-- 🏗️ AI platform architecture patterns
+My goal is not just to make AI systems work in a demo — it’s to make them **reliable, observable, auditable, and useful in production**.
 
-### 💡 Recent Achievements
+### Tech
 
-- Deployed AI automation serving **200K+ users** in production
-- Built diagnostic pipelines reducing MTTR by **47%**
-- Implemented RAG system improving efficiency by **35%**
-- Designed Model Context Protocol integration layer
-
-### 📫 Let's Connect
-
-- 💼 LinkedIn: [linkedin.com/in/aliazam2012](https://www.linkedin.com/in/aliazam2012/)
-- 📧 Email: ali.azam2012@gmail.com
-- 📍 Location: San Jose, CA 🌉
+`Python` · `FastAPI` · `Claude` · `OpenAI` · `AWS Bedrock` · `MCP` · `LLM Evals` · `RAG` · `PostgreSQL` · `AWS` · `Docker` · `Kubernetes`
 
 ---
 
-💡 *Transitioning my AI work from internal to public. Building in public - follow along!*
+[LinkedIn](https://www.linkedin.com/in/aliazam2012/)
