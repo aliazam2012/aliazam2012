@@ -29,6 +29,10 @@ Seven AI agent repos on one runtime I built, each graded by its own evaluation g
 | **[slack-incident-bot](https://github.com/aliazam2012/slack-incident-bot)** | An agent in a team's workflow: Slack, cadence reminders, cited runbooks, approved updates |
 | **[freight-volume-forecast](https://github.com/aliazam2012/freight-volume-forecast)** | Classic machine learning: backtested forecasts, measured ranges, an agent that cannot invent numbers |
 
+And how I plan the team that builds them:
+
+* **[team-capacity-planner](https://github.com/aliazam2012/team-capacity-planner)** ([live report](https://aliazam2012.github.io/team-capacity-planner/)): engineering leadership in code. Delivery forecasts as calibrated ranges, fuzzy-logic load per person, and a hiring case judged by the riskiest commitment, with an AI assistant that cannot invent a number.
+
 Also:
 
 * **[swe-harness](https://github.com/aliazam2012/swe-harness)**: the harness I run Claude Code on. Installs in one command, with hooks, skills, writing and code standards, and a benchmark that measures the harness itself before and after a change.
