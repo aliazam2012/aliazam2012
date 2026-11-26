@@ -17,7 +17,22 @@ I take AI systems from **technical discovery → architecture → production →
 
 ### Selected work
 
+Seven AI agent repos on one runtime I built, each graded by its own evaluation gate in CI:
+
+| Repo | What it shows |
+|---|---|
+| **[agent-runtime](https://github.com/aliazam2012/agent-runtime)** | Agent architecture: guarded tools, state machines with timers, human approval, evaluation gates, record and replay, MCP |
+| **[vision-damage-assessor](https://github.com/aliazam2012/vision-damage-assessor)** | Vision AI: a model describes freight damage photos, code decides the claim, calibrated confidence |
+| **[claims-intake-agent](https://github.com/aliazam2012/claims-intake-agent)** | Extraction from email, federal claim rules with citations, prompt-injection defense |
+| **[edi-pdf-order-intake](https://github.com/aliazam2012/edi-pdf-order-intake)** | Document AI: EDI X12 parsing, PDF and email extraction, exactly-once writes |
+| **[carrier-claims-filing](https://github.com/aliazam2012/carrier-claims-filing)** | Integrations: REST API, headless browser and email, legal deadlines as durable timers |
+| **[slack-incident-bot](https://github.com/aliazam2012/slack-incident-bot)** | An agent in a team's workflow: Slack, cadence reminders, cited runbooks, approved updates |
+| **[freight-volume-forecast](https://github.com/aliazam2012/freight-volume-forecast)** | Classic machine learning: backtested forecasts, measured ranges, an agent that cannot invent numbers |
+
+Also:
+
 * **[swe-harness](https://github.com/aliazam2012/swe-harness)**: the harness I run Claude Code on. Installs in one command, with hooks, skills, writing and code standards, and a benchmark that measures the harness itself before and after a change.
+* **[apartment-hunt-engine](https://github.com/aliazam2012/apartment-hunt-engine)**: a home search engine that scores city blocks for cleanliness, safety and walkability from open data.
 
 ### Current focus
 
